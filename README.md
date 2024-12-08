@@ -1,1 +1,1 @@
-部署在cloudflare上pages的静态响应式导航网站
+准备部署在cloudflare上pages的静态响应式导航网站
